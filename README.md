@@ -1,2 +1,2 @@
 # JavaScriptShop
- <img src="./image/sait.png" alt="">
+ <img src="./images/sait.png" alt="">
